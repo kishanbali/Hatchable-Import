@@ -1,0 +1,7 @@
+[[secret]]
+name = "RAZORPAY_KEY_ID"
+expose = true
+
+[[secret]]
+name = "RAZORPAY_KEY_SECRET"
+expose = true
